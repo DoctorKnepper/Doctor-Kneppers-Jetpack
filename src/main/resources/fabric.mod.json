@@ -18,8 +18,17 @@
 	"entrypoints": {
 		"main": [
 			"com.coaljetpack.CoalJetpack"
+		],
+		"client": [
+			"com.coaljetpack.client.CoalJetpackClient"
 		]
 	},
+	"mixins": [
+		{
+			"config": "coaljetpack.client.mixins.json",
+			"environment": "client"
+		}
+	],
 	"depends": {
 		"fabricloader": ">=0.20.1",
 		"minecraft": "~26.3",

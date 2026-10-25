@@ -7,6 +7,7 @@ A craftable, coal-burning jetpack that gives you creative-style flight in surviv
 ## How it works
 
 - **Wear it** in your chestplate slot. With [Accessories](https://modrinth.com/mod/accessories) or [Trinkets](https://modrinth.com/mod/trinkets) installed, the back and cape slots work too.
+- **Everyone can see it**: the jetpack shows on your back, with two fuel tanks and nozzles. If you wear it in an accessory slot over a chestplate, it sits on top of the armor.
 - **Fly** the way you do in creative: double-tap jump to take off, hold jump or sneak to go up or down.
 - **Fuel** comes from your inventory automatically. Keep coal, charcoal or blocks of coal anywhere in it, and the jetpack burns one whenever its tank runs dry.
   - Coal or charcoal: **1 minute** of flight.
