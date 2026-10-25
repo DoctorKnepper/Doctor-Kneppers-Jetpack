@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IRI",
+    "IFI",
+    "T T"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "F": "minecraft:furnace",
+    "T": "minecraft:flint_and_steel"
+  },
+  "result": {
+    "id": "coaljetpack:jetpack",
+    "count": 1
+  }
+}

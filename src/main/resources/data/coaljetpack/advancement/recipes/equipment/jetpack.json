@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "mined_iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:raw_iron",
+              "minecraft:iron_ore",
+              "minecraft:deepslate_iron_ore",
+              "minecraft:raw_iron_block"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipes": "coaljetpack:jetpack"
+      }
+    }
+  },
+  "requirements": [
+    [ "mined_iron", "has_the_recipe" ]
+  ],
+  "rewards": {
+    "recipes": [ "coaljetpack:jetpack" ]
+  }
+}

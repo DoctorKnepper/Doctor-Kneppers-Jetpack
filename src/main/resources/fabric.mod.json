@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "coaljetpack",
+	"version": "${version}",
+	"name": "Coal Jetpack",
+	"description": "A craftable, coal-burning jetpack that gives creative-style flight in survival. Wear it in the Accessories back/cape slot, the Trinkets cape slot, or your chest slot.",
+	"authors": [
+		"DoctorKnepper"
+	],
+	"contact": {
+		"homepage": "https://github.com/DoctorKnepper/MC-Jetpack",
+		"sources": "https://github.com/DoctorKnepper/MC-Jetpack",
+		"issues": "https://github.com/DoctorKnepper/MC-Jetpack/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/coaljetpack/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.coaljetpack.CoalJetpack"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"accessories": "*",
+		"trinkets": "*"
+	}
+}
