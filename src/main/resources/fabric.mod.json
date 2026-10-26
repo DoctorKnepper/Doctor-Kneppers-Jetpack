@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "coaljetpack",
 	"version": "${version}",
-	"name": "Coal Jetpack",
+	"name": "Doctor Knepper's Coal Jetpack",
 	"description": "A craftable, coal-burning jetpack that gives creative-style flight in survival. Wear it in the Accessories back/cape slot, the Trinkets cape slot, or your chest slot.",
 	"authors": [
 		"DoctorKnepper"

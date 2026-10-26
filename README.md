@@ -1,4 +1,4 @@
-# Coal Jetpack
+# Doctor Knepper's Coal Jetpack
 
 A craftable, coal-burning jetpack that gives you creative-style flight in survival.
 
