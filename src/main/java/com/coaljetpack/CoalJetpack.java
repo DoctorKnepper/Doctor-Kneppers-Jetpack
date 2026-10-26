@@ -41,7 +41,7 @@ public class CoalJetpack implements ModInitializer {
 			}
 		});
 		AccessorySlots.logDetected();
-		LOGGER.info("Coal Jetpack loaded");
+		LOGGER.info("Jetpack loaded");
 	}
 
 	public static Identifier id(String path) {

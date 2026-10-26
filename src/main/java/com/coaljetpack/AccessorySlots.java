@@ -27,7 +27,7 @@ public final class AccessorySlots {
 	public static void logDetected() {
 		for (String[] p : PROVIDERS) {
 			if (FabricLoader.getInstance().isModLoaded(p[0]) && classExists(p[1])) {
-				CoalJetpack.LOGGER.info("Coal Jetpack: {} detected ({}), jetpack can be worn in its slots", p[0], p[1]);
+				CoalJetpack.LOGGER.info("Jetpack: {} detected ({}), jetpack can be worn in its slots", p[0], p[1]);
 			}
 		}
 	}
@@ -55,7 +55,7 @@ public final class AccessorySlots {
 			} catch (Throwable t) {
 				if (!warned) {
 					warned = true;
-					CoalJetpack.LOGGER.warn("Coal Jetpack: couldn't read {} slots ({}); chest slot still works", p[0], t.toString());
+					CoalJetpack.LOGGER.warn("Jetpack: couldn't read {} slots ({}); chest slot still works", p[0], t.toString());
 				}
 			}
 		}

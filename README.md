@@ -2,7 +2,7 @@
 
 A craftable, coal-burning jetpack that gives you creative-style flight in survival.
 
-![Coal Jetpack](src/main/resources/assets/coaljetpack/icon.png)
+![Jetpack](src/main/resources/assets/coaljetpack/icon.png)
 
 ## How it works
 
