@@ -8,9 +8,9 @@
 		"DoctorKnepper"
 	],
 	"contact": {
-		"homepage": "https://github.com/DoctorKnepper/MC-Jetpack",
-		"sources": "https://github.com/DoctorKnepper/MC-Jetpack",
-		"issues": "https://github.com/DoctorKnepper/MC-Jetpack/issues"
+		"homepage": "https://github.com/DoctorKnepper/Doctor-Kneppers-Jetpack",
+		"sources": "https://github.com/DoctorKnepper/Doctor-Kneppers-Jetpack",
+		"issues": "https://github.com/DoctorKnepper/Doctor-Kneppers-Jetpack/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/coaljetpack/icon.png",

@@ -37,7 +37,7 @@ Install it on both the client and the server.
 
 ## Installing
 
-Download `coal-jetpack-<version>.jar` from the [releases page](https://github.com/DoctorKnepper/MC-Jetpack/releases), Modrinth or CurseForge, and put it in your `mods` folder along with Fabric API.
+Download `coal-jetpack-<version>.jar` from the [releases page](https://github.com/DoctorKnepper/Doctor-Kneppers-Jetpack/releases), Modrinth or CurseForge, and put it in your `mods` folder along with Fabric API.
 
 ## Building from source
 
